@@ -10,5 +10,5 @@ A tic-tac-toe game built by Vincent & Jolly. 🐷
 
 ## プルリクエストの練習用リポジトリ
 
-このリポジトリは、Mikuri さんにプルリクエストと GitHub Projects の使い方を
+このリポジトリは、プルリクエストと GitHub Projects の使い方を
 説明するためのデモ用です。
